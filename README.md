@@ -5,7 +5,7 @@
   <br>
 
 <h2>:bulb:  Sobre o projeto:</h2>
-<h3> O projeto foi desenvolvido para se obter mais conhecimento sobre animações,apesar de ser uma interface de login simples, apresenta uma interação visul eficaz com o usuário .</h3>
+<h3> O projeto foi desenvolvido para se obter mais conhecimento sobre animações,apesar de ser uma interface de login simples, apresenta uma interação visual eficaz com o usuário .</h3>
   <br>
   <br>
 
