@@ -19,7 +19,7 @@
 </div>
   <br>
   <br>
- <h2> :pushpin: Link site: <a href="https://williamfilvoch.github.io/login-interface/" target="_blank" > DevClub Login-interface </a> </h2>
+ <h2> :pushpin: Link site: <a href="https://williamfilvoch.github.io/login-interface/" target="_blank" > Login-interface </a> </h2>
   <br>
   <br>
   <img src="https://github.com/williamfilvoch/login-interface/blob/master/assets/img-login.png" alt="img-login" />
